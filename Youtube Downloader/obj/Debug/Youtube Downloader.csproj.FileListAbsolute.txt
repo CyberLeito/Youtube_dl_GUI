@@ -1,0 +1,9 @@
+c:\users\ixploid\documents\visual studio 2017\Projects\Youtube Downloader\Youtube Downloader\bin\Debug\Youtube Downloader.exe.config
+c:\users\ixploid\documents\visual studio 2017\Projects\Youtube Downloader\Youtube Downloader\bin\Debug\Youtube Downloader.exe
+c:\users\ixploid\documents\visual studio 2017\Projects\Youtube Downloader\Youtube Downloader\bin\Debug\Youtube Downloader.pdb
+c:\users\ixploid\documents\visual studio 2017\Projects\Youtube Downloader\Youtube Downloader\obj\Debug\Youtube Downloader.csprojResolveAssemblyReference.cache
+c:\users\ixploid\documents\visual studio 2017\Projects\Youtube Downloader\Youtube Downloader\obj\Debug\Youtube_Downloader.Form1.resources
+c:\users\ixploid\documents\visual studio 2017\Projects\Youtube Downloader\Youtube Downloader\obj\Debug\Youtube_Downloader.Properties.Resources.resources
+c:\users\ixploid\documents\visual studio 2017\Projects\Youtube Downloader\Youtube Downloader\obj\Debug\Youtube Downloader.csproj.GenerateResource.Cache
+c:\users\ixploid\documents\visual studio 2017\Projects\Youtube Downloader\Youtube Downloader\obj\Debug\Youtube Downloader.exe
+c:\users\ixploid\documents\visual studio 2017\Projects\Youtube Downloader\Youtube Downloader\obj\Debug\Youtube Downloader.pdb
